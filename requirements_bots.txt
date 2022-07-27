@@ -1,0 +1,6 @@
+binance==0.3
+binance_connector==1.13.0
+numpy==1.22.4
+pandas==1.4.2
+pygame==2.1.2
+SQLAlchemy==1.4.32
